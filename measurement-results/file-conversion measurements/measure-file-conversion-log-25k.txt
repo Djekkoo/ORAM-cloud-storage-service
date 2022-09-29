@@ -1,0 +1,403 @@
+Measure file conversion script with the following settings:
+Block size: 25000
+Use file hash: False
+Use block hash: False
+Use extends: False
+No file index found
+
+========= Results for the setup of the basic file structure and indexation
+Time used to create index file and blocks: 1.7166228294372559s
+Size of the index file: 514099 bytes
+Number of blocks used to store all files: 45300 blocks
+Required server storage: 1132.5mb
+Total size of files: 1096.0005mb
+Efficiency of storage: 96.78%
+
+========= Results for the additions - adding 2006 files
+Time used to adjust index file and create new blocks: 140.24982953071594s
+Number of blocks used to store all newly added files: 25260 blocks
+Size of the index file: 909550 bytes
+Number of blocks used to store all files: 70560 blocks
+Required server storage: 1764.0mb
+Total size of files: 1691.001mb
+Efficiency of storage: 95.86%
+
+========= Results for the updates - moving 2006 files
+Time used to adjust index file and blocks: 327.5945589542389s
+Number of blocks updated to store all changes: 25260 blocks
+Size of the index file: 896622 bytes
+Number of blocks used to store all files: 70560 blocks
+Required server storage: 1764.0mb
+Total size of files: 1691.001mb
+Efficiency of storage: 95.86%
+
+========= Results for the updates - reducing file sizes of 1010 files
+Time used to adjust index file and blocks: 98.3578953742981s
+Number of blocks updated to store all changes: 12350 blocks
+Size of the index file: 896502 bytes
+Number of blocks used to store all files: 58950 blocks
+Required server storage: 1473.75mb
+Total size of files: 1400.62575mb
+Efficiency of storage: 95.04%
+
+========= Results for the updates - increasing file sizes of 1009 files
+Time used to adjust index file and blocks: 97.38000416755676s
+Number of blocks updated to store all changes: 41940 blocks
+Size of the index file: 960071 bytes
+Number of blocks used to store all files: 79550 blocks
+Required server storage: 1988.75mb
+Total size of files: 1915.87575mb
+Efficiency of storage: 96.34%
+
+========= Results for the updates - changing a byte in 2006 files
+Time used to adjust index file and blocks: 203.7158031463623s
+Number of blocks updated to store all changes: 25260 blocks
+Size of the index file: 959817 bytes
+Number of blocks used to store all files: 79550 blocks
+Required server storage: 1988.75mb
+Total size of files: 1915.87575mb
+Efficiency of storage: 96.34%
+
+========= Results for the deletions - deleting 4025 files
+Time used to adjust index file and create new blocks: 322.2150366306305s
+Number of blocks used to store all newly added files: 0 blocks
+Size of the index file: 545814 bytes
+
+
+============================================================
+
+Measure file conversion script with the following settings:
+Block size: 25000
+Use file hash: False
+Use block hash: False
+Use extends: True
+No file index found
+
+========= Results for the setup of the basic file structure and indexation
+Time used to create index file and blocks: 2.14516282081604s
+Size of the index file: 230123 bytes
+Number of blocks used to store all files: 45300 blocks
+Required server storage: 1132.5mb
+Total size of files: 1096.0005mb
+Efficiency of storage: 96.78%
+
+========= Results for the additions - adding 2006 files
+Time used to adjust index file and create new blocks: 82.15176892280579s
+Number of blocks used to store all newly added files: 25260 blocks
+Size of the index file: 471610 bytes
+Number of blocks used to store all files: 70560 blocks
+Required server storage: 1764.0mb
+Total size of files: 1691.001mb
+Efficiency of storage: 95.86%
+
+========= Results for the updates - moving 2006 files
+Time used to adjust index file and blocks: 186.87916588783264s
+Number of blocks updated to store all changes: 25260 blocks
+Size of the index file: 458682 bytes
+Number of blocks used to store all files: 70560 blocks
+Required server storage: 1764.0mb
+Total size of files: 1691.001mb
+Efficiency of storage: 95.86%
+
+========= Results for the updates - reducing file sizes of 1010 files
+Time used to adjust index file and blocks: 60.09815430641174s
+Number of blocks updated to store all changes: 12350 blocks
+Size of the index file: 537108 bytes
+Number of blocks used to store all files: 58950 blocks
+Required server storage: 1473.75mb
+Total size of files: 1400.62575mb
+Efficiency of storage: 95.04%
+
+========= Results for the updates - increasing file sizes of 1009 files
+Time used to adjust index file and blocks: 59.79753828048706s
+Number of blocks updated to store all changes: 41940 blocks
+Size of the index file: 473399 bytes
+Number of blocks used to store all files: 79550 blocks
+Required server storage: 1988.75mb
+Total size of files: 1915.87575mb
+Efficiency of storage: 96.34%
+
+========= Results for the updates - changing a byte in 2006 files
+Time used to adjust index file and blocks: 112.74634504318237s
+Number of blocks updated to store all changes: 25260 blocks
+Size of the index file: 473821 bytes
+Number of blocks used to store all files: 79550 blocks
+Required server storage: 1988.75mb
+Total size of files: 1915.87575mb
+Efficiency of storage: 96.34%
+
+========= Results for the deletions - deleting 4025 files
+Time used to adjust index file and create new blocks: 255.15756702423096s
+Number of blocks used to store all newly added files: 0 blocks
+Size of the index file: 545814 bytes
+
+
+===============================================================
+
+
+Measure file conversion script with the following settings:
+Block size: 25000
+Use file hash: True
+Use block hash: False
+Use extends: False
+No file index found
+
+========= Results for the setup of the basic file structure and indexation
+Time used to create index file and blocks: 4.587141036987305s
+Size of the index file: 667546 bytes
+Number of blocks used to store all files: 45300 blocks
+Required server storage: 1132.5mb
+Total size of files: 1096.0005mb
+Efficiency of storage: 96.78%
+
+========= Results for the additions - adding 2006 files
+Time used to adjust index file and create new blocks: 116.32538676261902s
+Number of blocks used to store all newly added files: 25260 blocks
+Size of the index file: 1215436 bytes
+Number of blocks used to store all files: 70560 blocks
+Required server storage: 1764.0mb
+Total size of files: 1691.001mb
+Efficiency of storage: 95.86%
+
+========= Results for the updates - moving 2006 files
+Time used to adjust index file and blocks: 270.08524680137634s
+Number of blocks updated to store all changes: 0 blocks
+Size of the index file: 1202508 bytes
+Number of blocks used to store all files: 70560 blocks
+Required server storage: 1764.0mb
+Total size of files: 1691.001mb
+Efficiency of storage: 95.86%
+
+========= Results for the updates - reducing file sizes of 1010 files
+Time used to adjust index file and blocks: 86.61221051216125s
+Number of blocks updated to store all changes: 12350 blocks
+Size of the index file: 1202221 bytes
+Number of blocks used to store all files: 58950 blocks
+Required server storage: 1473.75mb
+Total size of files: 1400.62575mb
+Efficiency of storage: 95.04%
+
+========= Results for the updates - increasing file sizes of 1009 files
+Time used to adjust index file and blocks: 84.70406222343445s
+Number of blocks updated to store all changes: 41940 blocks
+Size of the index file: 1265621 bytes
+Number of blocks used to store all files: 79550 blocks
+Required server storage: 1988.75mb
+Total size of files: 1915.87575mb
+Efficiency of storage: 96.34%
+
+========= Results for the updates - changing a byte in 2006 files
+Time used to adjust index file and blocks: 167.06974411010742s
+Number of blocks updated to store all changes: 25260 blocks
+Size of the index file: 1265734 bytes
+Number of blocks used to store all files: 79550 blocks
+Required server storage: 1988.75mb
+Total size of files: 1915.87575mb
+Efficiency of storage: 96.34%
+
+========= Results for the deletions - deleting 4025 files
+Time used to adjust index file and create new blocks: 286.77656269073486s
+Number of blocks used to store all newly added files: 0 blocks
+Size of the index file: 545814 bytes
+
+
+===========================================
+
+Measure file conversion script with the following settings:
+Block size: 25000
+Use file hash: True
+Use block hash: False
+Use extends: True
+No file index found
+
+========= Results for the setup of the basic file structure and indexation
+Time used to create index file and blocks: 5.059887409210205s
+Size of the index file: 383566 bytes
+Number of blocks used to store all files: 45300 blocks
+Required server storage: 1132.5mb
+Total size of files: 1096.0005mb
+Efficiency of storage: 96.78%
+
+========= Results for the additions - adding 2006 files
+Time used to adjust index file and create new blocks: 69.32304811477661s
+Number of blocks used to store all newly added files: 25260 blocks
+Size of the index file: 777518 bytes
+Number of blocks used to store all files: 70560 blocks
+Required server storage: 1764.0mb
+Total size of files: 1691.001mb
+Efficiency of storage: 95.86%
+
+========= Results for the updates - moving 2006 files
+Time used to adjust index file and blocks: 165.64016604423523s
+Number of blocks updated to store all changes: 0 blocks
+Size of the index file: 764590 bytes
+Number of blocks used to store all files: 70560 blocks
+Required server storage: 1764.0mb
+Total size of files: 1691.001mb
+Efficiency of storage: 95.86%
+
+========= Results for the updates - reducing file sizes of 1010 files
+Time used to adjust index file and blocks: 53.42499017715454s
+Number of blocks updated to store all changes: 12350 blocks
+Size of the index file: 842906 bytes
+Number of blocks used to store all files: 58950 blocks
+Required server storage: 1473.75mb
+Total size of files: 1400.62575mb
+Efficiency of storage: 95.04%
+
+========= Results for the updates - increasing file sizes of 1009 files
+Time used to adjust index file and blocks: 52.113805055618286s
+Number of blocks updated to store all changes: 41940 blocks
+Size of the index file: 779096 bytes
+Number of blocks used to store all files: 79550 blocks
+Required server storage: 1988.75mb
+Total size of files: 1915.87575mb
+Efficiency of storage: 96.34%
+
+========= Results for the updates - changing a byte in 2006 files
+Time used to adjust index file and blocks: 99.4867377281189s
+Number of blocks updated to store all changes: 25260 blocks
+Size of the index file: 779098 bytes
+Number of blocks used to store all files: 79550 blocks
+Required server storage: 1988.75mb
+Total size of files: 1915.87575mb
+Efficiency of storage: 96.34%
+
+========= Results for the deletions - deleting 4025 files
+Time used to adjust index file and create new blocks: 191.8108434677124s
+Number of blocks used to store all newly added files: 0 blocks
+Size of the index file: 545814 bytes
+
+===================================================================
+
+Measure file conversion script with the following settings:
+Block size: 25000
+Use file hash: True
+Use block hash: True
+Use extends: False
+No file index found
+
+========= Results for the setup of the basic file structure and indexation
+Time used to create index file and blocks: 7.536516189575195s
+Size of the index file: 3780271 bytes
+Number of blocks used to store all files: 45300 blocks
+Required server storage: 1132.5mb
+Total size of files: 1096.0005mb
+Efficiency of storage: 96.78%
+
+========= Results for the additions - adding 2006 files
+Time used to adjust index file and create new blocks: 240.32264518737793s
+Number of blocks used to store all newly added files: 25260 blocks
+Size of the index file: 6077922 bytes
+Number of blocks used to store all files: 70560 blocks
+Required server storage: 1764.0mb
+Total size of files: 1691.001mb
+Efficiency of storage: 95.86%
+
+========= Results for the updates - moving 2006 files
+Time used to adjust index file and blocks: 495.87335205078125s
+Number of blocks updated to store all changes: 0 blocks
+Size of the index file: 6064994 bytes
+Number of blocks used to store all files: 70560 blocks
+Required server storage: 1764.0mb
+Total size of files: 1691.001mb
+Efficiency of storage: 95.86%
+
+========= Results for the updates - reducing file sizes of 1010 files
+Time used to adjust index file and blocks: 140.23819947242737s
+Number of blocks updated to store all changes: 980 blocks
+Size of the index file: 5275444 bytes
+Number of blocks used to store all files: 58950 blocks
+Required server storage: 1473.75mb
+Total size of files: 1400.62575mb
+Efficiency of storage: 95.04%
+
+========= Results for the updates - increasing file sizes of 1009 files
+Time used to adjust index file and blocks: 177.63524198532104s
+Number of blocks updated to store all changes: 21580 blocks
+Size of the index file: 6739770 bytes
+Number of blocks used to store all files: 79550 blocks
+Required server storage: 1988.75mb
+Total size of files: 1915.87575mb
+Efficiency of storage: 96.34%
+
+========= Results for the updates - changing a byte in 2006 files
+Time used to adjust index file and blocks: 314.0007028579712s
+Number of blocks updated to store all changes: 2006 blocks
+Size of the index file: 6739895 bytes
+Number of blocks used to store all files: 79550 blocks
+Required server storage: 1988.75mb
+Total size of files: 1915.87575mb
+Efficiency of storage: 96.34%
+
+========= Results for the deletions - deleting 4025 files
+Time used to adjust index file and create new blocks: 350.0723464488983s
+Number of blocks used to store all newly added files: 0 blocks
+Size of the index file: 545814 bytes
+
+
+==========================================================
+Measure file conversion script with the following settings:
+Block size: 25000
+Use file hash: True
+Use block hash: True
+Use extends: True
+No file index found
+
+========= Results for the setup of the basic file structure and indexation
+Time used to create index file and blocks: 7.571920156478882s
+Size of the index file: 3496264 bytes
+Number of blocks used to store all files: 45300 blocks
+Required server storage: 1132.5mb
+Total size of files: 1096.0005mb
+Efficiency of storage: 96.78%
+
+========= Results for the additions - adding 2006 files
+Time used to adjust index file and create new blocks: 174.7695550918579s
+Number of blocks used to store all newly added files: 25260 blocks
+Size of the index file: 5639969 bytes
+Number of blocks used to store all files: 70560 blocks
+Required server storage: 1764.0mb
+Total size of files: 1691.001mb
+Efficiency of storage: 95.86%
+
+========= Results for the updates - moving 2006 files
+Time used to adjust index file and blocks: 383.98632550239563s
+Number of blocks updated to store all changes: 0 blocks
+Size of the index file: 5627041 bytes
+Number of blocks used to store all files: 70560 blocks
+Required server storage: 1764.0mb
+Total size of files: 1691.001mb
+Efficiency of storage: 95.86%
+
+========= Results for the updates - reducing file sizes of 1010 files
+Time used to adjust index file and blocks: 112.95339322090149s
+Number of blocks updated to store all changes: 980 blocks
+Size of the index file: 4915983 bytes
+Number of blocks used to store all files: 58950 blocks
+Required server storage: 1473.75mb
+Total size of files: 1400.62575mb
+Efficiency of storage: 95.04%
+
+========= Results for the updates - increasing file sizes of 1009 files
+Time used to adjust index file and blocks: 123.60052108764648s
+Number of blocks updated to store all changes: 21580 blocks
+Size of the index file: 6253026 bytes
+Number of blocks used to store all files: 79550 blocks
+Required server storage: 1988.75mb
+Total size of files: 1915.87575mb
+Efficiency of storage: 96.34%
+
+========= Results for the updates - changing a byte in 2006 files
+Time used to adjust index file and blocks: 250.23215675354004s
+Number of blocks updated to store all changes: 2006 blocks
+Size of the index file: 6253093 bytes
+Number of blocks used to store all files: 79550 blocks
+Required server storage: 1988.75mb
+Total size of files: 1915.87575mb
+Efficiency of storage: 96.34%
+
+========= Results for the deletions - deleting 4025 files
+Time used to adjust index file and create new blocks: 302.62530493736267s
+Number of blocks used to store all newly added files: 0 blocks
+Size of the index file: 545814 bytes

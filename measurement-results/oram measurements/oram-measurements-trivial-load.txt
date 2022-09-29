@@ -1,0 +1,1679 @@
+========================================================================== bucket=2
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 2 blocks
+Eviction rate(z) is: 1 buckets per layer
+Max server storage size: 8190 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 205 files composed of 2047 blocks. 
+Performed 1213112 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 26581 bytes
+Local file conversion index file size: 181521 bytes
+ORAM has been initialised with 2047 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 2344.25 seconds (file conversion+ORAM)
+The ORAM execution duration is: 2342.43 seconds
+Number of failed evictions: 4546 times
+Server load= 2047/8190 = 24.99%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 385848(total: 1598960) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 33316 bytes
+Local file conversion index file size: 225800 bytes
+The total execution duration is: 722.61 seconds (file conversion+ORAM)
+The ORAM execution duration is: 721.55 seconds
+Number of failed evictions: 1597 times
+Server load= 2547/8190 = 31.1%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 403328(total: 2002288) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 40032 bytes
+Local file conversion index file size: 260526 bytes
+The total execution duration is: 760.79 seconds (file conversion+ORAM)
+The ORAM execution duration is: 759.64 seconds
+Number of failed evictions: 1692 times
+Server load= 3047/8190 = 37.2%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 819352(total: 2821640) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 40038 bytes
+Local file conversion index file size: 260526 bytes
+The total execution duration is: 1557.7 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1557.58 seconds
+Number of failed evictions: 3453 times
+Server load= 3047/8190 = 37.2%
+
+=========================
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 2 blocks
+Eviction rate(z) is: 3 buckets per layer
+Max server storage size: 8190 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 205 files composed of 2047 blocks. 
+Performed 1207984 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 26588 bytes
+Local file conversion index file size: 181521 bytes
+ORAM has been initialised with 2047 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 2410.79 seconds (file conversion+ORAM)
+The ORAM execution duration is: 2409.3 seconds
+Number of failed evictions: 885 times
+Server load= 2047/8190 = 24.99%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 362148(total: 1570132) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 33321 bytes
+Local file conversion index file size: 225794 bytes
+The total execution duration is: 697.55 seconds (file conversion+ORAM)
+The ORAM execution duration is: 696.76 seconds
+Number of failed evictions: 379 times
+Server load= 2547/8190 = 31.1%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 430128(total: 2000260) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 40030 bytes
+Local file conversion index file size: 260529 bytes
+The total execution duration is: 858.89 seconds (file conversion+ORAM)
+The ORAM execution duration is: 857.99 seconds
+Number of failed evictions: 544 times
+Server load= 3047/8190 = 37.2%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 884564(total: 2884824) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 40029 bytes
+Local file conversion index file size: 260529 bytes
+The total execution duration is: 1757.31 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1757.19 seconds
+Number of failed evictions: 1147 times
+Server load= 3047/8190 = 37.2%
+
+
+
+========================
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 2 blocks
+Eviction rate(z) is: 5 buckets per layer
+Max server storage size: 8190 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 205 files composed of 2047 blocks. 
+Performed 1536304 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 26603 bytes
+Local file conversion index file size: 181530 bytes
+ORAM has been initialised with 2047 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 3008.51 seconds (file conversion+ORAM)
+The ORAM execution duration is: 3006.95 seconds
+Number of failed evictions: 447 times
+Server load= 2047/8190 = 24.99%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 458920(total: 1995224) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 33328 bytes
+Local file conversion index file size: 225810 bytes
+The total execution duration is: 897.53 seconds (file conversion+ORAM)
+The ORAM execution duration is: 896.87 seconds
+Number of failed evictions: 245 times
+Server load= 2547/8190 = 31.1%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 596288(total: 2591512) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 40036 bytes
+Local file conversion index file size: 260532 bytes
+The total execution duration is: 1166.38 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1165.08 seconds
+Number of failed evictions: 468 times
+Server load= 3047/8190 = 37.2%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 1235080(total: 3826592) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 40036 bytes
+Local file conversion index file size: 260532 bytes
+The total execution duration is: 2424.44 seconds (file conversion+ORAM)
+The ORAM execution duration is: 2424.32 seconds
+Number of failed evictions: 1005 times
+Server load= 3047/8190 = 37.2%
+
+
+
+
+
+
+========================================================================== bucket=4
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 4 blocks
+Eviction rate(z) is: 1 buckets per layer
+Max server storage size: 4092 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 103 files composed of 1023 blocks. 
+Performed 513152 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 12081 bytes
+Local file conversion index file size: 90696 bytes
+ORAM has been initialised with 1023 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 854.36 seconds (file conversion+ORAM)
+The ORAM execution duration is: 853.94 seconds
+Number of failed evictions: 665 times
+Server load= 1023/4092 = 25.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 274816(total: 787968) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 18474 bytes
+Local file conversion index file size: 134975 bytes
+The total execution duration is: 450.67 seconds (file conversion+ORAM)
+The ORAM execution duration is: 449.76 seconds
+Number of failed evictions: 404 times
+Server load= 1523/4092 = 37.22%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 394288(total: 1182256) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 24861 bytes
+Local file conversion index file size: 169702 bytes
+The total execution duration is: 641.15 seconds (file conversion+ORAM)
+The ORAM execution duration is: 640.52 seconds
+Number of failed evictions: 797 times
+Server load= 2023/4092 = 49.44%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 843296(total: 2025552) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 24876 bytes
+Local file conversion index file size: 169702 bytes
+The total execution duration is: 1372.44 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1372.32 seconds
+Number of failed evictions: 1774 times
+Server load= 2023/4092 = 49.44%
+
+
+================================
+
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 4 blocks
+Eviction rate(z) is: 3 buckets per layer
+Max server storage size: 4092 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 103 files composed of 1023 blocks. 
+Performed 698528 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 12099 bytes
+Local file conversion index file size: 90705 bytes
+ORAM has been initialised with 1023 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 1279.29 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1278.69 seconds
+Number of failed evictions: 29 times
+Server load= 1023/4092 = 25.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 413672(total: 1112200) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 18484 bytes
+Local file conversion index file size: 134982 bytes
+The total execution duration is: 731.61 seconds (file conversion+ORAM)
+The ORAM execution duration is: 730.96 seconds
+Number of failed evictions: 123 times
+Server load= 1523/4092 = 37.22%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 725752(total: 1837952) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 24884 bytes
+Local file conversion index file size: 169710 bytes
+The total execution duration is: 1271.04 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1270.14 seconds
+Number of failed evictions: 593 times
+Server load= 2023/4092 = 49.44%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 1985360(total: 3823312) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 24870 bytes
+Local file conversion index file size: 169710 bytes
+The total execution duration is: 3490.55 seconds (file conversion+ORAM)
+The ORAM execution duration is: 3490.43 seconds
+Number of failed evictions: 1990 times
+Server load= 2023/4092 = 49.44%
+
+
+============================
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 4 blocks
+Eviction rate(z) is: 5 buckets per layer
+Max server storage size: 4092 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 103 files composed of 1023 blocks. 
+Performed 1026752 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 12106 bytes
+Local file conversion index file size: 90698 bytes
+ORAM has been initialised with 1023 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 1854.75 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1854.28 seconds
+Number of failed evictions: 29 times
+Server load= 1023/4092 = 25.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 613904(total: 1640656) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 18499 bytes
+Local file conversion index file size: 134978 bytes
+The total execution duration is: 1098.91 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1098.46 seconds
+Number of failed evictions: 129 times
+Server load= 1523/4092 = 37.22%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 1316624(total: 2957280) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 24880 bytes
+Local file conversion index file size: 169704 bytes
+The total execution duration is: 2381.47 seconds (file conversion+ORAM)
+The ORAM execution duration is: 2380.85 seconds
+Number of failed evictions: 849 times
+Server load= 2023/4092 = 49.44%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 4244624(total: 7201904) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 24876 bytes
+Local file conversion index file size: 169704 bytes
+The total execution duration is: 7527.97 seconds (file conversion+ORAM)
+The ORAM execution duration is: 7527.86 seconds
+Number of failed evictions: 3349 times
+Server load= 2023/4092 = 49.44%
+
+==================================================================
+
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 4 blocks
+Eviction rate(z) is: 1 buckets per layer
+Max server storage size: 8188 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 205 files composed of 2047 blocks. 
+Performed 1201536 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 25445 bytes
+Local file conversion index file size: 181511 bytes
+ORAM has been initialised with 2047 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 2088.29 seconds (file conversion+ORAM)
+The ORAM execution duration is: 2086.69 seconds
+Number of failed evictions: 1529 times
+Server load= 2047/8188 = 25.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 324576(total: 1526112) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 31921 bytes
+Local file conversion index file size: 225787 bytes
+The total execution duration is: 563.58 seconds (file conversion+ORAM)
+The ORAM execution duration is: 562.92 seconds
+Number of failed evictions: 466 times
+Server load= 2547/8188 = 31.11%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 365568(total: 1891680) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 38375 bytes
+Local file conversion index file size: 260520 bytes
+The total execution duration is: 631.01 seconds (file conversion+ORAM)
+The ORAM execution duration is: 630.2 seconds
+Number of failed evictions: 588 times
+Server load= 3047/8188 = 37.21%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 684096(total: 2575776) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 38368 bytes
+Local file conversion index file size: 260520 bytes
+The total execution duration is: 1190.1 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1189.98 seconds
+Number of failed evictions: 1036 times
+Server load= 3047/8188 = 37.21%
+
+
+
+=============================
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 4 blocks
+Eviction rate(z) is: 3 buckets per layer
+Max server storage size: 8188 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 205 files composed of 2047 blocks. 
+Performed 1583976 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 25463 bytes
+Local file conversion index file size: 181515 bytes
+ORAM has been initialised with 2047 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 2940.86 seconds (file conversion+ORAM)
+The ORAM execution duration is: 2939.56 seconds
+Number of failed evictions: 82 times
+Server load= 2047/8188 = 25.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 444168(total: 2028144) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 31904 bytes
+Local file conversion index file size: 225793 bytes
+The total execution duration is: 818.8 seconds (file conversion+ORAM)
+The ORAM execution duration is: 818.14 seconds
+Number of failed evictions: 97 times
+Server load= 2547/8188 = 31.11%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 479136(total: 2507280) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 38366 bytes
+Local file conversion index file size: 260520 bytes
+The total execution duration is: 884.78 seconds (file conversion+ORAM)
+The ORAM execution duration is: 883.95 seconds
+Number of failed evictions: 144 times
+Server load= 3047/8188 = 37.21%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 1060200(total: 3567480) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 38365 bytes
+Local file conversion index file size: 260520 bytes
+The total execution duration is: 1944.73 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1944.61 seconds
+Number of failed evictions: 425 times
+Server load= 3047/8188 = 37.21%
+
+
+=============================
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 4 blocks
+Eviction rate(z) is: 5 buckets per layer
+Max server storage size: 8188 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 205 files composed of 2047 blocks. 
+Performed 2321712 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 25458 bytes
+Local file conversion index file size: 181522 bytes
+ORAM has been initialised with 2047 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 4401.26 seconds (file conversion+ORAM)
+The ORAM execution duration is: 4400.16 seconds
+Number of failed evictions: 56 times
+Server load= 2047/8188 = 25.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 653568(total: 2975280) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 31911 bytes
+Local file conversion index file size: 225801 bytes
+The total execution duration is: 1232.57 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1231.9 seconds
+Number of failed evictions: 92 times
+Server load= 2547/8188 = 31.11%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 821376(total: 3796656) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 38368 bytes
+Local file conversion index file size: 260527 bytes
+The total execution duration is: 1550.83 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1550.01 seconds
+Number of failed evictions: 244 times
+Server load= 3047/8188 = 37.21%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 1668144(total: 5464800) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 38370 bytes
+Local file conversion index file size: 260527 bytes
+The total execution duration is: 3139.55 seconds (file conversion+ORAM)
+The ORAM execution duration is: 3139.43 seconds
+Number of failed evictions: 511 times
+Server load= 3047/8188 = 37.21%
+
+
+
+===================================================================
+
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 4 blocks
+Eviction rate(z) is: 1 buckets per layer
+Max server storage size: 16380 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 410 files composed of 4095 blocks. 
+Performed 2744176 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 54104 bytes
+Local file conversion index file size: 363360 bytes
+ORAM has been initialised with 4095 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 5653.35 seconds (file conversion+ORAM)
+The ORAM execution duration is: 5633.07 seconds
+Number of failed evictions: 3362 times
+Server load= 4095/16380 = 25.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 350704(total: 3094880) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 60834 bytes
+Local file conversion index file size: 407635 bytes
+The total execution duration is: 665.53 seconds (file conversion+ORAM)
+The ORAM execution duration is: 663.87 seconds
+Number of failed evictions: 453 times
+Server load= 4595/16380 = 28.05%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 365424(total: 3460304) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 67563 bytes
+Local file conversion index file size: 442363 bytes
+The total execution duration is: 730.69 seconds (file conversion+ORAM)
+The ORAM execution duration is: 729.25 seconds
+Number of failed evictions: 493 times
+Server load= 5095/16380 = 31.11%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 730848(total: 4191152) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 67546 bytes
+Local file conversion index file size: 442363 bytes
+The total execution duration is: 1390.52 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1390.4 seconds
+Number of failed evictions: 986 times
+Server load= 5095/16380 = 31.11%
+
+
+
+
+=====================
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 4 blocks
+Eviction rate(z) is: 3 buckets per layer
+Max server storage size: 16380 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 410 files composed of 4095 blocks. 
+Performed 3580280 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 54145 bytes
+Local file conversion index file size: 363368 bytes
+ORAM has been initialised with 4095 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 7224.14 seconds (file conversion+ORAM)
+The ORAM execution duration is: 7201.23 seconds
+Number of failed evictions: 250 times
+Server load= 4095/16380 = 25.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 458968(total: 4039248) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 60855 bytes
+Local file conversion index file size: 407646 bytes
+The total execution duration is: 943.96 seconds (file conversion+ORAM)
+The ORAM execution duration is: 942.77 seconds
+Number of failed evictions: 57 times
+Server load= 4595/16380 = 28.05%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 481216(total: 4520464) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 67595 bytes
+Local file conversion index file size: 442374 bytes
+The total execution duration is: 964.1 seconds (file conversion+ORAM)
+The ORAM execution duration is: 961.39 seconds
+Number of failed evictions: 84 times
+Server load= 5095/16380 = 31.11%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 1008576(total: 5529040) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 67582 bytes
+Local file conversion index file size: 442374 bytes
+The total execution duration is: 2012.39 seconds (file conversion+ORAM)
+The ORAM execution duration is: 2012.27 seconds
+Number of failed evictions: 224 times
+Server load= 5095/16380 = 31.11%
+
+
+
+
+
+========================
+
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 4 blocks
+Eviction rate(z) is: 5 buckets per layer
+Max server storage size: 16380 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 410 files composed of 4095 blocks. 
+Performed 5184256 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 54172 bytes
+Local file conversion index file size: 363370 bytes
+ORAM has been initialised with 4095 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 10515.05 seconds (file conversion+ORAM)
+The ORAM execution duration is: 10487.43 seconds
+Number of failed evictions: 113 times
+Server load= 4095/16380 = 25.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 697312(total: 5881568) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 60893 bytes
+Local file conversion index file size: 407650 bytes
+The total execution duration is: 1434.96 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1432.99 seconds
+Number of failed evictions: 66 times
+Server load= 4595/16380 = 28.05%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 762608(total: 6644176) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 67614 bytes
+Local file conversion index file size: 442365 bytes
+The total execution duration is: 1540.34 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1538.15 seconds
+Number of failed evictions: 119 times
+Server load= 5095/16380 = 31.11%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 1557248(total: 8201424) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 67633 bytes
+Local file conversion index file size: 442365 bytes
+The total execution duration is: 3150.14 seconds (file conversion+ORAM)
+The ORAM execution duration is: 3150.02 seconds
+Number of failed evictions: 264 times
+Server load= 5095/16380 = 31.11%
+
+
+===================================================================================
+
+
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 4 blocks
+Eviction rate(z) is: 5 buckets per layer
+Max server storage size: 16380 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 410 files composed of 4095 blocks. 
+Performed 5191648 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 54142 bytes
+Local file conversion index file size: 363364 bytes
+ORAM has been initialised with 4095 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 11052.67 seconds (file conversion+ORAM)
+The ORAM execution duration is: 11035.15 seconds
+Number of failed evictions: 119 times
+Server load= 4095/16380 = 25.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 699776(total: 5891424) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 60892 bytes
+Local file conversion index file size: 407639 bytes
+The total execution duration is: 1513.38 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1505.99 seconds
+Number of failed evictions: 68 times
+Server load= 4595/16380 = 28.05%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 767536(total: 6658960) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 67602 bytes
+Local file conversion index file size: 442373 bytes
+The total execution duration is: 1648.02 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1645.7 seconds
+Number of failed evictions: 123 times
+Server load= 5095/16380 = 31.11%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 1592976(total: 8251936) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 67582 bytes
+Local file conversion index file size: 442373 bytes
+The total execution duration is: 3307.27 seconds (file conversion+ORAM)
+The ORAM execution duration is: 3307.16 seconds
+Number of failed evictions: 293 times
+Server load= 5095/16380 = 31.11%
+
+
+
+========================================================================== bucket=8
+
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 8 blocks
+Eviction rate(z) is: 1 buckets per layer
+Max server storage size: 8184 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 205 files composed of 2046 blocks. 
+Performed 1595392 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 25172 bytes
+Local file conversion index file size: 181441 bytes
+ORAM has been initialised with 2046 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 2718.22 seconds (file conversion+ORAM)
+The ORAM execution duration is: 2716.82 seconds
+Number of failed evictions: 578 times
+Server load= 2046/8184 = 25.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 421344(total: 2016736) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 31570 bytes
+Local file conversion index file size: 225716 bytes
+The total execution duration is: 708.67 seconds (file conversion+ORAM)
+The ORAM execution duration is: 708.02 seconds
+Number of failed evictions: 193 times
+Server load= 2546/8184 = 31.11%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 411008(total: 2427744) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 37952 bytes
+Local file conversion index file size: 260452 bytes
+The total execution duration is: 684.46 seconds (file conversion+ORAM)
+The ORAM execution duration is: 683.62 seconds
+Number of failed evictions: 176 times
+Server load= 3046/8184 = 37.22%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 843296(total: 3271040) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 37954 bytes
+Local file conversion index file size: 260452 bytes
+The total execution duration is: 1411.97 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1411.85 seconds
+Number of failed evictions: 387 times
+Server load= 3046/8184 = 37.22%
+
+
+
+==========================
+
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 8 blocks
+Eviction rate(z) is: 3 buckets per layer
+Max server storage size: 8184 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 205 files composed of 2046 blocks. 
+Performed 2723728 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 25153 bytes
+Local file conversion index file size: 181450 bytes
+ORAM has been initialised with 2046 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 5769.27 seconds (file conversion+ORAM)
+The ORAM execution duration is: 5759.44 seconds
+Number of failed evictions: 5 times
+Server load= 2046/8184 = 25.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 714464(total: 3438192) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 31539 bytes
+Local file conversion index file size: 225731 bytes
+The total execution duration is: 1807.16 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1801.99 seconds
+Number of failed evictions: 38 times
+Server load= 2546/8184 = 31.11%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 756960(total: 4195152) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 37919 bytes
+Local file conversion index file size: 260458 bytes
+The total execution duration is: 1623.51 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1610.93 seconds
+Number of failed evictions: 70 times
+Server load= 3046/8184 = 37.22%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 1689216(total: 5884368) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 37919 bytes
+Local file conversion index file size: 260458 bytes
+The total execution duration is: 3340.74 seconds (file conversion+ORAM)
+The ORAM execution duration is: 3340.65 seconds
+Number of failed evictions: 272 times
+Server load= 3046/8184 = 37.22%
+
+=====================
+
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 8 blocks
+Eviction rate(z) is: 5 buckets per layer
+Max server storage size: 8184 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 205 files composed of 2046 blocks. 
+Performed 4001600 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 25163 bytes
+Local file conversion index file size: 181457 bytes
+ORAM has been initialised with 2046 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 7680.77 seconds (file conversion+ORAM)
+The ORAM execution duration is: 7670.87 seconds
+Number of failed evictions: 4 times
+Server load= 2046/8184 = 25.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 1052128(total: 5053728) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 31548 bytes
+Local file conversion index file size: 225736 bytes
+The total execution duration is: 1920.58 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1916.65 seconds
+Number of failed evictions: 39 times
+Server load= 2546/8184 = 31.11%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 1167296(total: 6221024) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 37950 bytes
+Local file conversion index file size: 260464 bytes
+The total execution duration is: 2118.57 seconds (file conversion+ORAM)
+The ORAM execution duration is: 2116.31 seconds
+Number of failed evictions: 98 times
+Server load= 3046/8184 = 37.22%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 2551264(total: 8772288) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 37955 bytes
+Local file conversion index file size: 260464 bytes
+The total execution duration is: 4675.22 seconds (file conversion+ORAM)
+The ORAM execution duration is: 4675.12 seconds
+Number of failed evictions: 307 times
+Server load= 3046/8184 = 37.22%
+
+=============================
+
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 8 blocks
+Eviction rate(z) is: 7 buckets per layer
+Max server storage size: 8184 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 205 files composed of 2046 blocks. 
+Performed 5205152 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 25186 bytes
+Local file conversion index file size: 181453 bytes
+ORAM has been initialised with 2046 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 9803.49 seconds (file conversion+ORAM)
+The ORAM execution duration is: 9798.55 seconds
+Number of failed evictions: 13 times
+Server load= 2046/8184 = 25.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 1385344(total: 6590496) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 31591 bytes
+Local file conversion index file size: 225730 bytes
+The total execution duration is: 2556.29 seconds (file conversion+ORAM)
+The ORAM execution duration is: 2555.62 seconds
+Number of failed evictions: 48 times
+Server load= 2546/8184 = 31.11%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 1615392(total: 8205888) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 37990 bytes
+Local file conversion index file size: 260455 bytes
+The total execution duration is: 2971.59 seconds (file conversion+ORAM)
+The ORAM execution duration is: 2970.76 seconds
+Number of failed evictions: 139 times
+Server load= 3046/8184 = 37.22%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 3200448(total: 11406336) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 37975 bytes
+Local file conversion index file size: 260455 bytes
+The total execution duration is: 5867.3 seconds (file conversion+ORAM)
+The ORAM execution duration is: 5867.18 seconds
+Number of failed evictions: 266 times
+Server load= 3046/8184 = 37.22%
+
+
+
+
+====================================================================================== 50% LOAD
+
+
+======================== Z=2
+
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 2 blocks
+Eviction rate(z) is: 1 buckets per layer
+Max server storage size: 8190 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 410 files composed of 4095 blocks. 
+Performed 3292496 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 54156 bytes
+Local file conversion index file size: 363374 bytes
+ORAM has been initialised with 4095 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 6065.63 seconds (file conversion+ORAM)
+The ORAM execution duration is: 6061.4 seconds
+Number of failed evictions: 13799 times
+Server load= 4095/8190 = 50.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 1490952(total: 4783448) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 60847 bytes
+Local file conversion index file size: 407652 bytes
+The total execution duration is: 2745.9 seconds (file conversion+ORAM)
+The ORAM execution duration is: 2744.74 seconds
+Number of failed evictions: 7603 times
+Server load= 4595/8190 = 56.11%
+
+
+Looped at 4969 blocks
+
+=============
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 2 blocks
+Eviction rate(z) is: 2 buckets per layer
+Max server storage size: 8190 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 410 files composed of 4095 blocks. 
+Performed 3163424 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 54145 bytes
+Local file conversion index file size: 363365 bytes
+ORAM has been initialised with 4095 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 6470.46 seconds (file conversion+ORAM)
+The ORAM execution duration is: 6450.44 seconds
+Number of failed evictions: 6311 times
+Server load= 4095/8190 = 50.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 1466192(total: 4629616) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 60859 bytes
+Local file conversion index file size: 407640 bytes
+The total execution duration is: 2970.52 seconds (file conversion+ORAM)
+The ORAM execution duration is: 2968.09 seconds
+Number of failed evictions: 4323 times
+Server load= 4595/8190 = 56.11%
+
+
+looped at 4873 blocks
+
+
+=============
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 2 blocks
+Eviction rate(z) is: 3 buckets per layer
+Max server storage size: 8190 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 410 files composed of 4095 blocks. 
+Performed 3608708 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 54144 bytes
+Local file conversion index file size: 363366 bytes
+ORAM has been initialised with 4095 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 7128.56 seconds (file conversion+ORAM)
+The ORAM execution duration is: 7122.26 seconds
+Number of failed evictions: 4664 times
+Server load= 4095/8190 = 50.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 2454284(total: 6062992) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 60875 bytes
+Local file conversion index file size: 407641 bytes
+The total execution duration is: 4651.78 seconds (file conversion+ORAM)
+The ORAM execution duration is: 4650.65 seconds
+Number of failed evictions: 5457 times
+Server load= 4595/8190 = 56.11%
+
+
+looped at 4746
+
+
+
+
+
+======================== Z=4
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 4 blocks
+Eviction rate(z) is: 1 buckets per layer
+Max server storage size: 4092 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 205 files composed of 2046 blocks. 
+Performed 1225120 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 25188 bytes
+Local file conversion index file size: 181451 bytes
+ORAM has been initialised with 2046 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 2041.14 seconds (file conversion+ORAM)
+The ORAM execution duration is: 2039.44 seconds
+Number of failed evictions: 1984 times
+Server load= 2046/4092 = 50.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 1112336(total: 2337456) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 31582 bytes
+Local file conversion index file size: 225731 bytes
+The total execution duration is: 1791.56 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1790.89 seconds
+Number of failed evictions: 3159 times
+Server load= 2546/4092 = 62.22%
+
+stopped at 2631
+
+================
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 4 blocks
+Eviction rate(z) is: 2 buckets per layer
+Max server storage size: 4092 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 205 files composed of 2046 blocks. 
+Performed 1384336 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 25176 bytes
+Local file conversion index file size: 181443 bytes
+ORAM has been initialised with 2046 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 2400.66 seconds (file conversion+ORAM)
+The ORAM execution duration is: 2399.31 seconds
+Number of failed evictions: 745 times
+Server load= 2046/4092 = 50.0%
+
+
+stopped at 2456
+
+================
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 4 blocks
+Eviction rate(z) is: 3 buckets per layer
+Max server storage size: 4092 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 205 files composed of 2046 blocks. 
+Performed 1883768 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 25169 bytes
+Local file conversion index file size: 181453 bytes
+ORAM has been initialised with 2046 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 3335.86 seconds (file conversion+ORAM)
+The ORAM execution duration is: 3334.11 seconds
+Number of failed evictions: 791 times
+Server load= 2046/4092 = 50.0%
+
+
+
+
+
+============================================
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 4 blocks
+Eviction rate(z) is: 1 buckets per layer
+Max server storage size: 8188 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 410 files composed of 4094 blocks. 
+Performed 2800560 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 51883 bytes
+Local file conversion index file size: 363308 bytes
+ORAM has been initialised with 4094 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 4953.71 seconds (file conversion+ORAM)
+The ORAM execution duration is: 4948.57 seconds
+Number of failed evictions: 4241 times
+Server load= 4094/8188 = 50.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 699888(total: 3500448) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 58352 bytes
+Local file conversion index file size: 407586 bytes
+The total execution duration is: 1254.2 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1252.92 seconds
+Number of failed evictions: 1583 times
+Server load= 4594/8188 = 56.11%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 2531088(total: 6031536) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 64824 bytes
+Local file conversion index file size: 442311 bytes
+The total execution duration is: 4540.66 seconds (file conversion+ORAM)
+The ORAM execution duration is: 4538.63 seconds
+Number of failed evictions: 7033 times
+Server load= 5094/8188 = 62.21%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 17276112(total: 23307648) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 64808 bytes
+Local file conversion index file size: 442311 bytes
+The total execution duration is: 30286.7 seconds (file conversion+ORAM)
+The ORAM execution duration is: 30286.58 seconds
+Number of failed evictions: 50417 times
+Server load= 5094/8188 = 62.21%
+
+=========================
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 4 blocks
+Eviction rate(z) is: 2 buckets per layer
+Max server storage size: 8188 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 410 files composed of 4094 blocks. 
+Performed 3120456 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 51868 bytes
+Local file conversion index file size: 363299 bytes
+ORAM has been initialised with 4094 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 5848.12 seconds (file conversion+ORAM)
+The ORAM execution duration is: 5844.04 seconds
+Number of failed evictions: 1559 times
+Server load= 4094/8188 = 50.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 1155336(total: 4275792) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 58331 bytes
+Local file conversion index file size: 407576 bytes
+The total execution duration is: 2056.42 seconds (file conversion+ORAM)
+The ORAM execution duration is: 2055.26 seconds
+Number of failed evictions: 1593 times
+Server load= 4594/8188 = 56.11%
+
+
+==========================
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 4 blocks
+Eviction rate(z) is: 3 buckets per layer
+Max server storage size: 8188 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 410 files composed of 4094 blocks. 
+Performed 4350912 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 51908 bytes
+Local file conversion index file size: 363301 bytes
+ORAM has been initialised with 4094 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 7989.14 seconds (file conversion+ORAM)
+The ORAM execution duration is: 7985.64 seconds
+Number of failed evictions: 1754 times
+Server load= 4094/8188 = 50.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 14946216(total: 19297128) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 58348 bytes
+Local file conversion index file size: 407579 bytes
+The total execution duration is: 27146.69 seconds (file conversion+ORAM)
+The ORAM execution duration is: 27145.57 seconds
+Number of failed evictions: 19589 times
+Server load= 4594/8188 = 56.11%
+
+
+Stopped execution at 4599 blocks (because it took > 45 minutes to add one block)
+
+===============================
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 4 blocks
+Eviction rate(z) is: 1 buckets per layer
+Max server storage size: 16380 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 819 files composed of 8190 blocks. 
+Performed 6426016 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 109243 bytes
+Local file conversion index file size: 726819 bytes
+ORAM has been initialised with 8190 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 13420.62 seconds (file conversion+ORAM)
+The ORAM execution duration is: 13373.79 seconds
+Number of failed evictions: 9272 times
+Server load= 8190/16380 = 50.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 769856(total: 7195872) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 115989 bytes
+Local file conversion index file size: 771097 bytes
+The total execution duration is: 1607.42 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1597.52 seconds
+Number of failed evictions: 1592 times
+Server load= 8690/16380 = 53.05%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 1064624(total: 8260496) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 122733 bytes
+Local file conversion index file size: 805822 bytes
+The total execution duration is: 2182.34 seconds (file conversion+ORAM)
+The ORAM execution duration is: 2166.74 seconds
+Number of failed evictions: 2393 times
+Server load= 9190/16380 = 56.11%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 1993456(total: 10253952) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 122728 bytes
+Local file conversion index file size: 805822 bytes
+The total execution duration is: 3825.32 seconds (file conversion+ORAM)
+The ORAM execution duration is: 3825.2 seconds
+Number of failed evictions: 4417 times
+Server load= 9190/16380 = 56.11%
+
+==================
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 4 blocks
+Eviction rate(z) is: 2 buckets per layer
+Max server storage size: 16380 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 819 files composed of 8190 blocks. 
+Performed 6981056 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 109224 bytes
+Local file conversion index file size: 726778 bytes
+ORAM has been initialised with 8190 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 15090.98 seconds (file conversion+ORAM)
+The ORAM execution duration is: 15047.14 seconds
+Number of failed evictions: 3292 times
+Server load= 8190/16380 = 50.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 1042112(total: 8023168) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 115968 bytes
+Local file conversion index file size: 771055 bytes
+The total execution duration is: 2223.19 seconds (file conversion+ORAM)
+The ORAM execution duration is: 2211.41 seconds
+Number of failed evictions: 1214 times
+Server load= 8690/16380 = 53.05%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 1717600(total: 9740768) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 122664 bytes
+Local file conversion index file size: 805782 bytes
+The total execution duration is: 3629.57 seconds (file conversion+ORAM)
+The ORAM execution duration is: 3612.46 seconds
+Number of failed evictions: 2325 times
+Server load= 9190/16380 = 56.11%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 3563488(total: 13304256) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 122707 bytes
+Local file conversion index file size: 805782 bytes
+The total execution duration is: 7417.37 seconds (file conversion+ORAM)
+The ORAM execution duration is: 7417.27 seconds
+Number of failed evictions: 4861 times
+Server load= 9190/16380 = 56.11%
+
+
+==================
+
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 4 blocks
+Eviction rate(z) is: 3 buckets per layer
+Max server storage size: 16380 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 819 files composed of 8190 blocks. 
+Performed 9548512 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 109257 bytes
+Local file conversion index file size: 726806 bytes
+ORAM has been initialised with 8190 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 20741.25 seconds (file conversion+ORAM)
+The ORAM execution duration is: 20692.65 seconds
+Number of failed evictions: 3398 times
+Server load= 8190/16380 = 50.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 2193488(total: 11742000) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 115957 bytes
+Local file conversion index file size: 771086 bytes
+The total execution duration is: 4501.6 seconds (file conversion+ORAM)
+The ORAM execution duration is: 4482.15 seconds
+Number of failed evictions: 2162 times
+Server load= 8690/16380 = 53.05%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 18081856(total: 29823856) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 122712 bytes
+Local file conversion index file size: 805812 bytes
+The total execution duration is: 37525.28 seconds (file conversion+ORAM)
+The ORAM execution duration is: 37502.98 seconds
+Number of failed evictions: 21444 times
+Server load= 9190/16380 = 56.11%
+
+
+
+
+
+
+====================================== z=8
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 8 blocks
+Eviction rate(z) is: 1 buckets per layer
+Max server storage size: 8184 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 410 files composed of 4092 blocks. 
+Performed 3384128 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 51343 bytes
+Local file conversion index file size: 363173 bytes
+ORAM has been initialised with 4092 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 5868.1 seconds (file conversion+ORAM)
+The ORAM execution duration is: 5860.94 seconds
+Number of failed evictions: 1474 times
+Server load= 4092/8184 = 50.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 625632(total: 4009760) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 57731 bytes
+Local file conversion index file size: 407451 bytes
+The total execution duration is: 1097.36 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1096.09 seconds
+Number of failed evictions: 529 times
+Server load= 4592/8184 = 56.11%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 1316928(total: 5326688) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 64120 bytes
+Local file conversion index file size: 442173 bytes
+The total execution duration is: 2242.49 seconds (file conversion+ORAM)
+The ORAM execution duration is: 2241.0 seconds
+Number of failed evictions: 1666 times
+Server load= 5092/8184 = 62.22%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 5048832(total: 10375520) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 64112 bytes
+Local file conversion index file size: 442173 bytes
+The total execution duration is: 8326.26 seconds (file conversion+ORAM)
+The ORAM execution duration is: 8326.13 seconds
+Number of failed evictions: 7304 times
+Server load= 5092/8184 = 62.22%
+
+====
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 8 blocks
+Eviction rate(z) is: 1 buckets per layer
+Max server storage size: 8184 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 410 files composed of 4092 blocks. 
+Performed 3424256 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 51340 bytes
+Local file conversion index file size: 363171 bytes
+ORAM has been initialised with 4092 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 5635.48 seconds (file conversion+ORAM)
+The ORAM execution duration is: 5631.7 seconds
+Number of failed evictions: 1540 times
+Server load= 4092/8184 = 50.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 649952(total: 4074208) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 57748 bytes
+Local file conversion index file size: 407444 bytes
+The total execution duration is: 1049.8 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1048.41 seconds
+Number of failed evictions: 569 times
+Server load= 4592/8184 = 56.11%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 1335776(total: 5409984) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 64118 bytes
+Local file conversion index file size: 442178 bytes
+The total execution duration is: 2149.9 seconds (file conversion+ORAM)
+The ORAM execution duration is: 2148.58 seconds
+Number of failed evictions: 1697 times
+Server load= 5092/8184 = 62.22%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 5562592(total: 10972576) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 64120 bytes
+Local file conversion index file size: 442178 bytes
+The total execution duration is: 8961.3 seconds (file conversion+ORAM)
+The ORAM execution duration is: 8961.18 seconds
+Number of failed evictions: 8149 times
+Server load= 5092/8184 = 62.22%
+
+
+==================
+
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 8 blocks
+Eviction rate(z) is: 2 buckets per layer
+Max server storage size: 8184 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 410 files composed of 4092 blocks. 
+Performed 4761600 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 51327 bytes
+Local file conversion index file size: 363173 bytes
+ORAM has been initialised with 4092 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 8580.74 seconds (file conversion+ORAM)
+The ORAM execution duration is: 8577.04 seconds
+Number of failed evictions: 708 times
+Server load= 4092/8184 = 50.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 3586080(total: 8347680) network requests
+The maximum shelter size has reached: 0 blocks
+Local oram index file size: 57722 bytes
+Local file conversion index file size: 407450 bytes
+The total execution duration is: 6337.66 seconds (file conversion+ORAM)
+The ORAM execution duration is: 6336.47 seconds
+Number of failed evictions: 3115 times
+Server load= 4592/8184 = 56.11%
+
+stopped at 4624
+
+=============
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: trivial
+Each bucket contains: 8 blocks
+Eviction rate(z) is: 3 buckets per layer
+Max server storage size: 8184 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 410 files composed of 4092 blocks. 
+Performed 6880368 network requests
+The maximum shelter size has reached 0 blocks
+Local oram index file size: 51350 bytes
+Local file conversion index file size: 363164 bytes
+ORAM has been initialised with 4092 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 13066.0 seconds (file conversion+ORAM)
+The ORAM execution duration is: 13056.94 seconds
+Number of failed evictions: 1089 times
+Server load= 4092/8184 = 50.0%
+
+stopped at 4375

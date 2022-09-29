@@ -1,0 +1,8 @@
+
+# Requirements for execution
+sudo pip3 install pyopenssl
+sudo pip3 install cryptography
+sudo pip3 install pycryptodome
+
+# measurement results
+These are displayed in directory measurement results, and seperated between file measurements and oram measurements.

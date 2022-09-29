@@ -1,0 +1,759 @@
+############################################################################ storage capacity: 4096
+
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: sqrt
+Max server storage size: 4096 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 0 files composed of 0 blocks. 
+Performed 0 network requests
+The maximum shelter size has reached 64 blocks
+Local oram index file size: 56500 bytes
+Local file conversion index file size: 68 bytes
+ORAM has been initialised with 0 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 0.0 seconds (file conversion+ORAM)
+The ORAM execution duration is: 0 seconds
+Number of end-of-epoch invocations: 0 times
+Total duration of end-of-epoch invocations: 0 s
+Number of network requests performed during end-of-epoch invocations: 0 requests
+Server load= 0/4096 = 0.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 29641(total: 29641) network requests
+The maximum shelter size has reached: 64 blocks
+Local oram index file size: 56449 bytes
+Local file conversion index file size: 44224 bytes
+The total execution duration is: 81.54 seconds (file conversion+ORAM)
+The ORAM execution duration is: 81.36 seconds
+Number of end-of-epoch invocations: 7 times
+Total duration of end-of-epoch invocations: 50.92 s
+Number of network requests performed during end-of-epoch invocations: 29141 requests
+Server load= 500/4096 = 12.21%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 33806(total: 63447) network requests
+The maximum shelter size has reached: 64 blocks
+Local oram index file size: 56462 bytes
+Local file conversion index file size: 78855 bytes
+The total execution duration is: 95.73 seconds (file conversion+ORAM)
+The ORAM execution duration is: 95.33 seconds
+Number of end-of-epoch invocations: 8 times
+Total duration of end-of-epoch invocations: 63.62 s
+Number of network requests performed during end-of-epoch invocations: 33306 requests
+Server load= 1000/4096 = 24.41%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 67630(total: 131077) network requests
+The maximum shelter size has reached: 64 blocks
+Local oram index file size: 56478 bytes
+Local file conversion index file size: 78855 bytes
+The total execution duration is: 201.69 seconds (file conversion+ORAM)
+The ORAM execution duration is: 201.55 seconds
+Number of end-of-epoch invocations: 16 times
+Total duration of end-of-epoch invocations: 141.98 s
+Number of network requests performed during end-of-epoch invocations: 66630 requests
+Server load= 1000/4096 = 24.41%
+
+
+================================
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: sqrt
+Max server storage size: 4096 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 103 files composed of 1024 blocks. 
+Performed 67637 network requests
+The maximum shelter size has reached 64 blocks
+Local oram index file size: 56500 bytes
+Local file conversion index file size: 90765 bytes
+ORAM has been initialised with 1024 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 156.68 seconds (file conversion+ORAM)
+The ORAM execution duration is: 156.18 seconds
+Number of end-of-epoch invocations: 16 times
+Total duration of end-of-epoch invocations: 86.66 s
+Number of network requests performed during end-of-epoch invocations: 66613 requests
+Server load= 1024/4096 = 25.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 29640(total: 97277) network requests
+The maximum shelter size has reached: 64 blocks
+Local oram index file size: 56501 bytes
+Local file conversion index file size: 135043 bytes
+The total execution duration is: 73.96 seconds (file conversion+ORAM)
+The ORAM execution duration is: 73.48 seconds
+Number of end-of-epoch invocations: 7 times
+Total duration of end-of-epoch invocations: 39.5 s
+Number of network requests performed during end-of-epoch invocations: 29140 requests
+Server load= 1524/4096 = 37.21%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 33803(total: 131080) network requests
+The maximum shelter size has reached: 64 blocks
+Local oram index file size: 56501 bytes
+Local file conversion index file size: 169768 bytes
+The total execution duration is: 89.69 seconds (file conversion+ORAM)
+The ORAM execution duration is: 89.02 seconds
+Number of end-of-epoch invocations: 8 times
+Total duration of end-of-epoch invocations: 50.82 s
+Number of network requests performed during end-of-epoch invocations: 33303 requests
+Server load= 2024/4096 = 49.41%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 67611(total: 198691) network requests
+The maximum shelter size has reached: 64 blocks
+Local oram index file size: 56501 bytes
+Local file conversion index file size: 169768 bytes
+The total execution duration is: 150.38 seconds (file conversion+ORAM)
+The ORAM execution duration is: 150.23 seconds
+Number of end-of-epoch invocations: 16 times
+Total duration of end-of-epoch invocations: 80.09 s
+Number of network requests performed during end-of-epoch invocations: 66611 requests
+Server load= 2024/4096 = 49.41%
+
+=====================================================
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: sqrt
+Max server storage size: 4096 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 205 files composed of 2048 blocks. 
+Performed 135277 network requests
+The maximum shelter size has reached 64 blocks
+Local oram index file size: 56500 bytes
+Local file conversion index file size: 181582 bytes
+ORAM has been initialised with 2048 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 265.08 seconds (file conversion+ORAM)
+The ORAM execution duration is: 263.81 seconds
+Number of end-of-epoch invocations: 32 times
+Total duration of end-of-epoch invocations: 123.86 s
+Number of network requests performed during end-of-epoch invocations: 133229 requests
+Server load= 2048/4096 = 50.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 29652(total: 164929) network requests
+The maximum shelter size has reached: 64 blocks
+Local oram index file size: 56501 bytes
+Local file conversion index file size: 225859 bytes
+The total execution duration is: 67.89 seconds (file conversion+ORAM)
+The ORAM execution duration is: 66.86 seconds
+Number of end-of-epoch invocations: 7 times
+Total duration of end-of-epoch invocations: 29.43 s
+Number of network requests performed during end-of-epoch invocations: 29152 requests
+Server load= 2548/4096 = 62.21%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 33797(total: 198726) network requests
+The maximum shelter size has reached: 64 blocks
+Local oram index file size: 56501 bytes
+Local file conversion index file size: 260582 bytes
+The total execution duration is: 73.63 seconds (file conversion+ORAM)
+The ORAM execution duration is: 72.28 seconds
+Number of end-of-epoch invocations: 8 times
+Total duration of end-of-epoch invocations: 35.57 s
+Number of network requests performed during end-of-epoch invocations: 33297 requests
+Server load= 3048/4096 = 74.41%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 67632(total: 266358) network requests
+The maximum shelter size has reached: 64 blocks
+Local oram index file size: 56501 bytes
+Local file conversion index file size: 260582 bytes
+The total execution duration is: 130.1 seconds (file conversion+ORAM)
+The ORAM execution duration is: 129.96 seconds
+Number of end-of-epoch invocations: 16 times
+Total duration of end-of-epoch invocations: 62.42 s
+Number of network requests performed during end-of-epoch invocations: 66632 requests
+Server load= 3048/4096 = 74.41%
+
+
+=====================================================
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: sqrt
+Max server storage size: 4096 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 308 files composed of 3072 blocks. 
+Performed 202928 network requests
+The maximum shelter size has reached 64 blocks
+Local oram index file size: 56500 bytes
+Local file conversion index file size: 272623 bytes
+ORAM has been initialised with 3072 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 450.6 seconds (file conversion+ORAM)
+The ORAM execution duration is: 446.97 seconds
+Number of end-of-epoch invocations: 48 times
+Total duration of end-of-epoch invocations: 231.44 s
+Number of network requests performed during end-of-epoch invocations: 199856 requests
+Server load= 3072/4096 = 75.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 29643(total: 232571) network requests
+The maximum shelter size has reached: 64 blocks
+Local oram index file size: 56501 bytes
+Local file conversion index file size: 316899 bytes
+The total execution duration is: 74.5 seconds (file conversion+ORAM)
+The ORAM execution duration is: 73.49 seconds
+Number of end-of-epoch invocations: 7 times
+Total duration of end-of-epoch invocations: 39.74 s
+Number of network requests performed during end-of-epoch invocations: 29143 requests
+Server load= 3572/4096 = 87.21%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 33805(total: 266376) network requests
+The maximum shelter size has reached: 64 blocks
+Local oram index file size: 56501 bytes
+Local file conversion index file size: 351628 bytes
+The total execution duration is: 76.19 seconds (file conversion+ORAM)
+The ORAM execution duration is: 74.98 seconds
+Number of end-of-epoch invocations: 8 times
+Total duration of end-of-epoch invocations: 40.89 s
+Number of network requests performed during end-of-epoch invocations: 33305 requests
+Server load= 4072/4096 = 99.41%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 67619(total: 333995) network requests
+The maximum shelter size has reached: 64 blocks
+Local oram index file size: 56501 bytes
+Local file conversion index file size: 351628 bytes
+The total execution duration is: 149.89 seconds (file conversion+ORAM)
+The ORAM execution duration is: 149.74 seconds
+Number of end-of-epoch invocations: 16 times
+Total duration of end-of-epoch invocations: 81.78 s
+Number of network requests performed during end-of-epoch invocations: 66619 requests
+Server load= 4072/4096 = 99.41%
+
+
+
+#################################################### 8100
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: sqrt
+Max server storage size: 8100 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 0 files composed of 0 blocks. 
+Performed 0 network requests
+The maximum shelter size has reached 90 blocks
+Local oram index file size: 113076 bytes
+Local file conversion index file size: 68 bytes
+ORAM has been initialised with 0 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 0.0 seconds (file conversion+ORAM)
+The ORAM execution duration is: 0 seconds
+Number of end-of-epoch invocations: 0 times
+Total duration of end-of-epoch invocations: 0 s
+Number of network requests performed during end-of-epoch invocations: 0 requests
+Server load= 0/8100 = 0.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 41464(total: 41464) network requests
+The maximum shelter size has reached: 90 blocks
+Local oram index file size: 113027 bytes
+Local file conversion index file size: 44225 bytes
+The total execution duration is: 144.57 seconds (file conversion+ORAM)
+The ORAM execution duration is: 143.84 seconds
+Number of end-of-epoch invocations: 5 times
+Total duration of end-of-epoch invocations: 90.46 s
+Number of network requests performed during end-of-epoch invocations: 40964 requests
+Server load= 500/8100 = 6.17%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 49666(total: 91130) network requests
+The maximum shelter size has reached: 90 blocks
+Local oram index file size: 113068 bytes
+Local file conversion index file size: 78851 bytes
+The total execution duration is: 187.85 seconds (file conversion+ORAM)
+The ORAM execution duration is: 187.28 seconds
+Number of end-of-epoch invocations: 6 times
+Total duration of end-of-epoch invocations: 136.35 s
+Number of network requests performed during end-of-epoch invocations: 49166 requests
+Server load= 1000/8100 = 12.35%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 91122(total: 182252) network requests
+The maximum shelter size has reached: 90 blocks
+Local oram index file size: 113052 bytes
+Local file conversion index file size: 78851 bytes
+The total execution duration is: 372.63 seconds (file conversion+ORAM)
+The ORAM execution duration is: 372.48 seconds
+Number of end-of-epoch invocations: 11 times
+Total duration of end-of-epoch invocations: 269.1 s
+Number of network requests performed during end-of-epoch invocations: 90122 requests
+Server load= 1000/8100 = 12.35%
+
+========================================
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: sqrt
+Max server storage size: 8100 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 203 files composed of 2025 blocks. 
+Performed 182271 network requests
+The maximum shelter size has reached 90 blocks
+Local oram index file size: 113077 bytes
+Local file conversion index file size: 179611 bytes
+ORAM has been initialised with 2025 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 711.81 seconds (file conversion+ORAM)
+The ORAM execution duration is: 710.2 seconds
+Number of end-of-epoch invocations: 22 times
+Total duration of end-of-epoch invocations: 497.77 s
+Number of network requests performed during end-of-epoch invocations: 180246 requests
+Server load= 2025/8100 = 25.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 49658(total: 231929) network requests
+The maximum shelter size has reached: 90 blocks
+Local oram index file size: 113076 bytes
+Local file conversion index file size: 223888 bytes
+The total execution duration is: 196.14 seconds (file conversion+ORAM)
+The ORAM execution duration is: 195.27 seconds
+Number of end-of-epoch invocations: 6 times
+Total duration of end-of-epoch invocations: 143.38 s
+Number of network requests performed during end-of-epoch invocations: 49158 requests
+Server load= 2525/8100 = 31.17%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 41473(total: 273402) network requests
+The maximum shelter size has reached: 90 blocks
+Local oram index file size: 113077 bytes
+Local file conversion index file size: 258615 bytes
+The total execution duration is: 173.88 seconds (file conversion+ORAM)
+The ORAM execution duration is: 172.95 seconds
+Number of end-of-epoch invocations: 5 times
+Total duration of end-of-epoch invocations: 119.79 s
+Number of network requests performed during end-of-epoch invocations: 40973 requests
+Server load= 3025/8100 = 37.35%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 91132(total: 364534) network requests
+The maximum shelter size has reached: 90 blocks
+Local oram index file size: 113077 bytes
+Local file conversion index file size: 258615 bytes
+The total execution duration is: 369.32 seconds (file conversion+ORAM)
+The ORAM execution duration is: 369.18 seconds
+Number of end-of-epoch invocations: 11 times
+Total duration of end-of-epoch invocations: 265.37 s
+Number of network requests performed during end-of-epoch invocations: 90132 requests
+Server load= 3025/8100 = 37.35%
+
+
+========================================
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: sqrt
+Max server storage size: 8100 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 405 files composed of 4050 blocks. 
+Performed 372777 network requests
+The maximum shelter size has reached 90 blocks
+Local oram index file size: 113076 bytes
+Local file conversion index file size: 359280 bytes
+ORAM has been initialised with 4050 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 1289.84 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1286.47 seconds
+Number of end-of-epoch invocations: 45 times
+Total duration of end-of-epoch invocations: 921.68 s
+Number of network requests performed during end-of-epoch invocations: 368727 requests
+Server load= 4050/8100 = 50.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 41479(total: 414256) network requests
+The maximum shelter size has reached: 90 blocks
+Local oram index file size: 113077 bytes
+Local file conversion index file size: 403558 bytes
+The total execution duration is: 142.87 seconds (file conversion+ORAM)
+The ORAM execution duration is: 141.71 seconds
+Number of end-of-epoch invocations: 5 times
+Total duration of end-of-epoch invocations: 95.54 s
+Number of network requests performed during end-of-epoch invocations: 40979 requests
+Server load= 4550/8100 = 56.17%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 49670(total: 463926) network requests
+The maximum shelter size has reached: 90 blocks
+Local oram index file size: 113077 bytes
+Local file conversion index file size: 438287 bytes
+The total execution duration is: 166.21 seconds (file conversion+ORAM)
+The ORAM execution duration is: 164.9 seconds
+Number of end-of-epoch invocations: 6 times
+Total duration of end-of-epoch invocations: 119.89 s
+Number of network requests performed during end-of-epoch invocations: 49170 requests
+Server load= 5050/8100 = 62.35%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 91132(total: 555058) network requests
+The maximum shelter size has reached: 90 blocks
+Local oram index file size: 113077 bytes
+Local file conversion index file size: 438287 bytes
+The total execution duration is: 320.53 seconds (file conversion+ORAM)
+The ORAM execution duration is: 320.39 seconds
+Number of end-of-epoch invocations: 11 times
+Total duration of end-of-epoch invocations: 227.53 s
+Number of network requests performed during end-of-epoch invocations: 90132 requests
+Server load= 5050/8100 = 62.35%
+
+
+============================================
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: sqrt
+Max server storage size: 8100 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 608 files composed of 6075 blocks. 
+Performed 555066 network requests
+The maximum shelter size has reached 90 blocks
+Local oram index file size: 113077 bytes
+Local file conversion index file size: 539144 bytes
+ORAM has been initialised with 6075 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 1891.94 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1885.53 seconds
+Number of end-of-epoch invocations: 67 times
+Total duration of end-of-epoch invocations: 1325.54 s
+Number of network requests performed during end-of-epoch invocations: 548991 requests
+Server load= 6075/8100 = 75.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 49663(total: 604729) network requests
+The maximum shelter size has reached: 90 blocks
+Local oram index file size: 113076 bytes
+Local file conversion index file size: 583420 bytes
+The total execution duration is: 166.72 seconds (file conversion+ORAM)
+The ORAM execution duration is: 165.14 seconds
+Number of end-of-epoch invocations: 6 times
+Total duration of end-of-epoch invocations: 121.72 s
+Number of network requests performed during end-of-epoch invocations: 49163 requests
+Server load= 6575/8100 = 81.17%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 41462(total: 646191) network requests
+The maximum shelter size has reached: 90 blocks
+Local oram index file size: 113077 bytes
+Local file conversion index file size: 618149 bytes
+The total execution duration is: 151.25 seconds (file conversion+ORAM)
+The ORAM execution duration is: 149.39 seconds
+Number of end-of-epoch invocations: 5 times
+Total duration of end-of-epoch invocations: 102.4 s
+Number of network requests performed during end-of-epoch invocations: 40962 requests
+Server load= 7075/8100 = 87.35%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 91140(total: 737331) network requests
+The maximum shelter size has reached: 90 blocks
+Local oram index file size: 113077 bytes
+Local file conversion index file size: 618149 bytes
+The total execution duration is: 313.71 seconds (file conversion+ORAM)
+The ORAM execution duration is: 313.57 seconds
+Number of end-of-epoch invocations: 11 times
+Total duration of end-of-epoch invocations: 220.64 s
+Number of network requests performed during end-of-epoch invocations: 90140 requests
+Server load= 7075/8100 = 87.35%
+
+
+
+
+
+##################################################### 16384
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: sqrt
+Max server storage size: 16384 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 0 files composed of 0 blocks. 
+Performed 0 network requests
+The maximum shelter size has reached 128 blocks
+Local oram index file size: 242840 bytes
+Local file conversion index file size: 68 bytes
+ORAM has been initialised with 0 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 0.0 seconds (file conversion+ORAM)
+The ORAM execution duration is: 0 seconds
+Number of end-of-epoch invocations: 0 times
+Total duration of end-of-epoch invocations: 0 s
+Number of network requests performed during end-of-epoch invocations: 0 requests
+Server load= 0/16384 = 0.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 50045(total: 50045) network requests
+The maximum shelter size has reached: 128 blocks
+Local oram index file size: 242726 bytes
+Local file conversion index file size: 44227 bytes
+The total execution duration is: 219.09 seconds (file conversion+ORAM)
+The ORAM execution duration is: 218.73 seconds
+Number of end-of-epoch invocations: 3 times
+Total duration of end-of-epoch invocations: 149.59 s
+Number of network requests performed during end-of-epoch invocations: 49545 requests
+Server load= 500/16384 = 3.05%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 66567(total: 116612) network requests
+The maximum shelter size has reached: 128 blocks
+Local oram index file size: 242739 bytes
+Local file conversion index file size: 78857 bytes
+The total execution duration is: 479.21 seconds (file conversion+ORAM)
+The ORAM execution duration is: 478.85 seconds
+Number of end-of-epoch invocations: 4 times
+Total duration of end-of-epoch invocations: 408.41 s
+Number of network requests performed during end-of-epoch invocations: 66067 requests
+Server load= 1000/16384 = 6.1%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 133140(total: 249752) network requests
+The maximum shelter size has reached: 128 blocks
+Local oram index file size: 242732 bytes
+Local file conversion index file size: 78857 bytes
+The total execution duration is: 682.29 seconds (file conversion+ORAM)
+The ORAM execution duration is: 682.15 seconds
+Number of end-of-epoch invocations: 8 times
+Total duration of end-of-epoch invocations: 539.49 s
+Number of network requests performed during end-of-epoch invocations: 132140 requests
+Server load= 1000/16384 = 6.1%
+
+==================================================
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: sqrt
+Max server storage size: 16384 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 410 files composed of 4096 blocks. 
+Performed 532617 network requests
+The maximum shelter size has reached 128 blocks
+Local oram index file size: 242840 bytes
+Local file conversion index file size: 363438 bytes
+ORAM has been initialised with 4096 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 3379.18 seconds (file conversion+ORAM)
+The ORAM execution duration is: 3343.34 seconds
+Number of end-of-epoch invocations: 32 times
+Total duration of end-of-epoch invocations: 2772.02 s
+Number of network requests performed during end-of-epoch invocations: 528521 requests
+Server load= 4096/16384 = 25.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 50051(total: 582668) network requests
+The maximum shelter size has reached: 128 blocks
+Local oram index file size: 242842 bytes
+Local file conversion index file size: 407720 bytes
+The total execution duration is: 580.72 seconds (file conversion+ORAM)
+The ORAM execution duration is: 576.87 seconds
+Number of end-of-epoch invocations: 3 times
+Total duration of end-of-epoch invocations: 511.12 s
+Number of network requests performed during end-of-epoch invocations: 49551 requests
+Server load= 4596/16384 = 28.05%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 66565(total: 649233) network requests
+The maximum shelter size has reached: 128 blocks
+Local oram index file size: 242842 bytes
+Local file conversion index file size: 442443 bytes
+The total execution duration is: 1098.77 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1092.88 seconds
+Number of end-of-epoch invocations: 4 times
+Total duration of end-of-epoch invocations: 1023.89 s
+Number of network requests performed during end-of-epoch invocations: 66065 requests
+Server load= 5096/16384 = 31.1%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 133127(total: 782360) network requests
+The maximum shelter size has reached: 128 blocks
+Local oram index file size: 242841 bytes
+Local file conversion index file size: 442443 bytes
+The total execution duration is: 1332.26 seconds (file conversion+ORAM)
+The ORAM execution duration is: 1332.11 seconds
+Number of end-of-epoch invocations: 8 times
+Total duration of end-of-epoch invocations: 1192.93 s
+Number of network requests performed during end-of-epoch invocations: 132127 requests
+Server load= 5096/16384 = 31.1%
+
+
+==================================================
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: sqrt
+Max server storage size: 16384 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 820 files composed of 8192 blocks. 
+Performed 1065214 network requests
+The maximum shelter size has reached 128 blocks
+Local oram index file size: 242840 bytes
+Local file conversion index file size: 727155 bytes
+ORAM has been initialised with 8192 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 10192.94 seconds (file conversion+ORAM)
+The ORAM execution duration is: 10098.65 seconds
+Number of end-of-epoch invocations: 64 times
+Total duration of end-of-epoch invocations: 9016.63 s
+Number of network requests performed during end-of-epoch invocations: 1057022 requests
+Server load= 8192/16384 = 50.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 50043(total: 1115257) network requests
+The maximum shelter size has reached: 128 blocks
+Local oram index file size: 242842 bytes
+Local file conversion index file size: 771435 bytes
+The total execution duration is: 579.96 seconds (file conversion+ORAM)
+The ORAM execution duration is: 531.27 seconds
+Number of end-of-epoch invocations: 3 times
+Total duration of end-of-epoch invocations: 462.99 s
+Number of network requests performed during end-of-epoch invocations: 49543 requests
+Server load= 8692/16384 = 53.05%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 66562(total: 1181819) network requests
+The maximum shelter size has reached: 128 blocks
+Local oram index file size: 242842 bytes
+Local file conversion index file size: 806155 bytes
+The total execution duration is: 609.45 seconds (file conversion+ORAM)
+The ORAM execution duration is: 585.96 seconds
+Number of end-of-epoch invocations: 4 times
+Total duration of end-of-epoch invocations: 516.24 s
+Number of network requests performed during end-of-epoch invocations: 66062 requests
+Server load= 9192/16384 = 56.1%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 133129(total: 1314948) network requests
+The maximum shelter size has reached: 128 blocks
+Local oram index file size: 242841 bytes
+Local file conversion index file size: 806155 bytes
+The total execution duration is: 616.77 seconds (file conversion+ORAM)
+The ORAM execution duration is: 616.63 seconds
+Number of end-of-epoch invocations: 8 times
+Total duration of end-of-epoch invocations: 471.96 s
+Number of network requests performed during end-of-epoch invocations: 132129 requests
+Server load= 9192/16384 = 56.1%
+
+
+
+
+==========================================================
+
+Measure oram script with the following file conversion settings:
+Block size: 50000
+Use file hash: True
+Use block hash: True
+Use extends: True
+
+The following ORAM settings are used:
+Testing ORAM type: sqrt
+Max server storage size: 16384 blocks
+
+Creating initial files to create a server load in the ORAM before testing.
+ORAM has been initialised with 1229 files composed of 12288 blocks. 
+Performed 1597840 network requests
+The maximum shelter size has reached 128 blocks
+Local oram index file size: 242840 bytes
+Local file conversion index file size: 1091303 bytes
+ORAM has been initialised with 12288 blocks. Prepare for standard testing and measurements.
+The total execution duration is: 15515.31 seconds (file conversion+ORAM)
+The ORAM execution duration is: 15371.17 seconds
+Number of end-of-epoch invocations: 96 times
+Total duration of end-of-epoch invocations: 13764.94 s
+Number of network requests performed during end-of-epoch invocations: 1585552 requests
+Server load= 12288/16384 = 75.0%
+
+ORAM has added 50 files composed of 500 blocks. 
+Performed: 50049(total: 1647889) network requests
+The maximum shelter size has reached: 128 blocks
+Local oram index file size: 242958 bytes
+Local file conversion index file size: 1135680 bytes
+The total execution duration is: 629.57 seconds (file conversion+ORAM)
+The ORAM execution duration is: 584.79 seconds
+Number of end-of-epoch invocations: 3 times
+Total duration of end-of-epoch invocations: 516.89 s
+Number of network requests performed during end-of-epoch invocations: 49549 requests
+Server load= 12788/16384 = 78.05%
+
+ORAM has increased the file sizes of the previously added files with a total of 500 blocks. 
+Performed: 66565(total: 1714454) network requests
+The maximum shelter size has reached: 128 blocks
+Local oram index file size: 242946 bytes
+Local file conversion index file size: 1170505 bytes
+The total execution duration is: 683.74 seconds (file conversion+ORAM)
+The ORAM execution duration is: 650.53 seconds
+Number of end-of-epoch invocations: 4 times
+Total duration of end-of-epoch invocations: 580.63 s
+Number of network requests performed during end-of-epoch invocations: 66065 requests
+Server load= 13288/16384 = 81.1%
+
+ORAM has read 50 files composed of 1000 blocks. 
+Comparison with local file system has 0 failed read operations
+Performed: 133128(total: 1847582) network requests
+The maximum shelter size has reached: 128 blocks
+Local oram index file size: 242921 bytes
+Local file conversion index file size: 1170505 bytes
+The total execution duration is: 631.12 seconds (file conversion+ORAM)
+The ORAM execution duration is: 630.98 seconds
+Number of end-of-epoch invocations: 8 times
+Total duration of end-of-epoch invocations: 485.89 s
+Number of network requests performed during end-of-epoch invocations: 132128 requests
+Server load= 13288/16384 = 81.1%
